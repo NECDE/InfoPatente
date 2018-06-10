@@ -1,7 +1,7 @@
 # InfoPatente
 
 Script para sacar información de una patente (chile)
-Modificado para python 3 - Guarda info a un txt - busca y muestra imagenes del modelo del vehiculo con esa patente
+Modificado para python 3 - - busca y muestra imagenes del modelo del vehiculo con esa patente
 
 
 **Librerias necesarias:**
